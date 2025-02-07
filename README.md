@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Aadarsha.
 
-<!--
-**AadarshaK-hub/AadarshaK-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Scientist | Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+  Computer science background with strong foundations with different languages(Python, Java, C)
+  
+  Passionate about solving problems with data
+  
+  Currently working on: IBM Data Science Professional Certificate | R and JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+  - IBM Data Science Certificate
+  - Building a strong portfolio with projects as I go through the courses
+  - Exploring machine learning and creating models for data analysis
+  - Familiarizing myself with JavaScript and R
+
+## Skills & Tools
+  - Data Science: Pandas, Matplotlib
+  - Languages: Python, Java, C
+  - Other: GitHub, Jupyter Notebook
+
+## Let's Connect!
+  - Email: khatiwadaace@gmail.com
+
+
+  
